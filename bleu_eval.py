@@ -104,7 +104,7 @@ def BLEU(s,t,flag = False):
 ### Usage: python bleu_eval.py caption.txt
 ### Ref : https://github.com/vikasnar/Bleu
 if __name__ == "__main__" :
-    test = json.load(open('/home/menishe/Manish/MLDS_hw2_data/testing_label.json','r'))
+    test = json.load(open('/home/akakkir/HW2/MLDS_hw2_1_data//testing_label.json','r'))
     output = sys.argv[1]
     result = {}
     with open(output,'r') as f:
