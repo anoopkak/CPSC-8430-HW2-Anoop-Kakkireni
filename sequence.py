@@ -1,5 +1,5 @@
 # build dict #
-# python sequence.py /Manish/MLDS_hw2_data/training_data/feat/ /home/menishe/Manish/MLDS_hw2_data/training_label.json 
+
 import sys
 from os import listdir
 import numpy as np
