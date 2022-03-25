@@ -1,5 +1,3 @@
-#Run train file using following command
-# python train.py /Users/manish/Downloads/MLDS_hw2_data/testing_data/feat/ ./Users/manish/Downloads/MLDS_hw2_data/testing_label.json ./output_testset_manish.txt 
 
 import os
 import sys
